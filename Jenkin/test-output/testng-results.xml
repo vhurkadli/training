@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="14" total="21" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="284186" started-at="2021-03-15T12:06:31Z" finished-at="2021-03-15T12:11:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="284186" started-at="2021-03-15T12:06:31Z" finished-at="2021-03-15T12:11:15Z">
+      <class name="TestNGturorials.OperationsPortal">
+        <test-method status="PASS" signature="method1_LoginToOpsPortal()[pri:1, instance:TestNGturorials.OperationsPortal@3712b94]" name="method1_LoginToOpsPortal" duration-ms="31447" started-at="2021-03-15T12:06:31Z" finished-at="2021-03-15T12:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1_LoginToOpsPortal -->
+        <test-method status="PASS" signature="method2_InviteMemberToUserManagement()[pri:2, instance:TestNGturorials.OperationsPortal@3712b94]" name="method2_InviteMemberToUserManagement" duration-ms="51236" started-at="2021-03-15T12:07:02Z" finished-at="2021-03-15T12:07:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2_InviteMemberToUserManagement -->
+        <test-method status="PASS" signature="method3_validSearchField()[pri:3, instance:TestNGturorials.OperationsPortal@3712b94]" name="method3_validSearchField" duration-ms="35689" started-at="2021-03-15T12:07:54Z" finished-at="2021-03-15T12:08:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method3_validSearchField -->
+        <test-method status="PASS" signature="method5_LoginToGmailAndEnterNewPassword()[pri:5, instance:TestNGturorials.OperationsPortal@3712b94]" name="method5_LoginToGmailAndEnterNewPassword" duration-ms="45565" started-at="2021-03-15T12:08:29Z" finished-at="2021-03-15T12:09:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method5_LoginToGmailAndEnterNewPassword -->
+        <test-method status="PASS" signature="method6_EnterOTP()[pri:6, instance:TestNGturorials.OperationsPortal@3712b94]" name="method6_EnterOTP" duration-ms="26198" started-at="2021-03-15T12:09:15Z" finished-at="2021-03-15T12:09:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method6_EnterOTP -->
+        <test-method status="PASS" signature="method7_EnterUserDetails()[pri:7, instance:TestNGturorials.OperationsPortal@3712b94]" name="method7_EnterUserDetails" duration-ms="25838" started-at="2021-03-15T12:09:41Z" finished-at="2021-03-15T12:10:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method7_EnterUserDetails -->
+        <test-method status="PASS" signature="method8_LogginWithRegisteredUser()[pri:8, instance:TestNGturorials.OperationsPortal@3712b94]" name="method8_LogginWithRegisteredUser" duration-ms="68180" started-at="2021-03-15T12:10:07Z" finished-at="2021-03-15T12:11:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method8_LogginWithRegisteredUser -->
+      </class> <!-- TestNGturorials.OperationsPortal -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
